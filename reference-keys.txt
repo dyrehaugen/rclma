@@ -41,6 +41,7 @@ climate-debt
 distributive-conflicts-vs-commons-free-riders
 technology
 ccs
+ccs-costs
 eor---enhaced-oil-recovery
 cdr---carbon-dioxide-removal
 gmo---enhanced-photosynthesis
