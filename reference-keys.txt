@@ -10,6 +10,7 @@ deep-adaptation
 academic-failure
 capitalism-and-climate-change
 orthogonal
+carbon-pricing
 climate-treaties
 climate-finance
 green-investing
